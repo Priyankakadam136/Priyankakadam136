@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka Kadam</h1>
-<h3 align="center">A Girl who loves to Explore!!</h3>
+<h3 align="center">A Girl who love to Explore!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankakadam136&label=Profile%20views&color=0e75b6&style=flat" alt="priyankakadam136" /> </p>
 
