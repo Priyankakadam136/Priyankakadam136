@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/priyank95792977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyank95792977" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyanka-kadam7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka-kadam7" height="30" width="40" /></a>
-<a href="https://fb.com/priyankakadam22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyankakadam22" height="30" width="40" /></a>
 <a href="https://instagram.com/___priyuuu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___priyuuu__" height="30" width="40" /></a>
 <a href="https://www.behance.net/priyankakadam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="priyankakadam10" height="30" width="40" /></a>
 </p>
