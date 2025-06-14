@@ -7,7 +7,7 @@
 
 - 📝 I write articles on [https://priyankawritesdilse.wordpress.com/](https://priyankawritesdilse.wordpress.com/)
 
-- 📫 How to reach me **priyankakadam7737@gmail.com**
+- 📫 How to reach me **priyankakadam9790@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
